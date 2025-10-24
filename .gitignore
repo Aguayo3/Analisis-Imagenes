@@ -1,0 +1,29 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+octave-workspace
+
+# Resultados generados
+resultados_entropia.csv
+comparacion_shannon.png
+comparacion_renyi.png
+promedio_shannon.png
+
+# Ejemplos generados
+ejemplo_*.png
+
+# Archivos temporales
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# Imágenes de prueba (comentar si desea incluirlas)
+# imagenes/**/*.jpg
+# imagenes/**/*.jpeg
+# imagenes/**/*.png
+# imagenes/**/*.tif
+# imagenes/**/*.tiff
+# imagenes/**/*.bmp
